@@ -1,3 +1,4 @@
+
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "upforge-temp",
@@ -6,6 +7,7 @@
   "compatibility_flags": [
     "nodejs_compat"
   ],
+  "workers_dev": true,
   "assets": {
     "directory": ".open-next/assets",
     "binding": "ASSETS"
@@ -19,16 +21,6 @@
     {
       "binding": "WORKER_SELF_REFERENCE",
       "service": "upforge-temp"
-    }
-  ],
-  "routes": [
-    {
-      "pattern": "upforge.org",
-      "custom_domain": true
-    },
-    {
-      "pattern": "www.upforge.org",
-      "custom_domain": true
     }
   ]
 }
