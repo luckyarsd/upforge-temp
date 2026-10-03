@@ -1,1 +1,1 @@
-components data
+components pages 
