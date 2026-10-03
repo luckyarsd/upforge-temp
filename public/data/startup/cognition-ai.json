@@ -1,0 +1,137 @@
+{
+  "id": "uf-cognition-ai",
+  "ufrn": "UF-2026-US-05468",
+  "name": "Cognition AI",
+  "slug": "cognition-ai",
+  "status": "approved",
+  "founded": 2023,
+  "founded_year": 2023,
+  "location": {
+    "city": "San Francisco",
+    "country": "United States",
+    "country_code": "US"
+  },
+  "city": "San Francisco",
+  "state": null,
+  "country_name": "United States",
+  "country_code": "US",
+  "sector_id": "artificial-intelligence-ai-technology",
+  "subsector_ids": [
+    "artificial-intelligence-ai-technology"
+  ],
+  "category": "Artificial Intelligence (AI) & Technology",
+  "industry_cluster": "AI",
+  "founders": "Scott Wu, Steven Hao, Walden Yan",
+  "business_model": null,
+  "legal_name": null,
+  "funding_stage": null,
+  "funding_total": null,
+  "valuation": null,
+  "valuation_date": null,
+  "data_as_of": "2026-04-15 08:47:05.774465+00",
+  "description": "Cognition AI is an applied AI lab focused on advanced reasoning and logic. Based in San Francisco, the startup is best known for creating Devin, the world's first fully autonomous AI software engineer capable of writing code, debugging, and building software projects entirely on its own.",
+  "description_short": "Cognition AI is an applied AI lab focused on advanced reasoning and logic. Based in San Francisco, the startup is best known for creating Devin, the w",
+  "description_long": "Cognition AI is an applied AI lab focused on advanced reasoning and logic. Based in San Francisco, the startup is best known for creating Devin, the world's first fully autonomous AI software engineer capable of writing code, debugging, and building software projects entirely on its own.",
+  "logo_url": "https://img.logo.dev/cognition.ai?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=512&retina=true&format=png",
+  "website": "https://cognition.com/",
+  "social": {
+    "linkedin": null,
+    "twitter": null,
+    "instagram": null
+  },
+  "linkedin_url": null,
+  "twitter_url": null,
+  "instagram_url": null,
+  "verification": {
+    "status": "verified",
+    "score": 90,
+    "is_self_reported_capped": false,
+    "breakdown": {
+      "website_reachable": 15,
+      "domain_validity": 15,
+      "company_identity_signal": 15,
+      "founder_identity_signal": 15,
+      "social_presence": 10,
+      "product_evidence": 10,
+      "registration_evidence": 5,
+      "recent_activity": 5
+    },
+    "last_verified": "2026-09-25"
+  },
+  "provenance": [
+    {
+      "field": "name",
+      "value": "Cognition AI",
+      "source": "UpForge Registry Google Sheet",
+      "verified_on": "2026-09-25",
+      "confidence": "high"
+    },
+    {
+      "field": "founders",
+      "value": "Scott Wu, Steven Hao, Walden Yan",
+      "source": "UpForge Registry Google Sheet",
+      "verified_on": "2026-09-25",
+      "confidence": "high"
+    },
+    {
+      "field": "founded_year",
+      "value": "2023",
+      "source": "UpForge Registry Google Sheet",
+      "verified_on": "2026-09-25",
+      "confidence": "high"
+    },
+    {
+      "field": "website",
+      "value": "https://cognition.com/",
+      "source": "UpForge Registry Google Sheet",
+      "verified_on": "2026-09-25",
+      "confidence": "high"
+    },
+    {
+      "field": "category",
+      "value": "Artificial Intelligence (AI) & Technology",
+      "source": "UpForge Registry Google Sheet",
+      "verified_on": "2026-09-25",
+      "confidence": "high"
+    },
+    {
+      "field": "city",
+      "value": "San Francisco",
+      "source": "UpForge Registry Google Sheet",
+      "verified_on": "2026-09-25",
+      "confidence": "high"
+    },
+    {
+      "field": "country",
+      "value": "United States",
+      "source": "UpForge Registry Google Sheet",
+      "verified_on": "2026-09-25",
+      "confidence": "high"
+    }
+  ],
+  "history": {
+    "founders": [
+      {
+        "date": "2023-01-01",
+        "note": "Entity founded by Scott Wu, Steven Hao, Walden Yan"
+      }
+    ],
+    "sector": [
+      {
+        "date": "2026-09-25",
+        "note": "Registry classification: Artificial Intelligence (AI) & Technology"
+      }
+    ],
+    "status": [
+      {
+        "date": "2026-09-25",
+        "note": "Registry status: verified (Score: 90/100)"
+      }
+    ]
+  },
+  "sources": [
+    "https://cognition.com/"
+  ],
+  "is_featured": false,
+  "created_at": "2026-09-25T21:31:29.513Z"
+}
